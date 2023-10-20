@@ -1,0 +1,23 @@
+.contain {
+    background-image: url(bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#input {
+    background-color:transparent;
+    color: white;
+}
+
+#out {
+    display: none;
+}
+
+#dvd {
+    margin-top: 80px;
+}
+
+.display {
+    margin-top: 20px;
+    font-size: 20px;
+}
